@@ -1,1 +1,1 @@
-# Dice-game
+https://sakinasyed.github.io/Dice-game/
